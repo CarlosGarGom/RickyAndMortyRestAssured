@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.cucumber.stepdefs.RunCucumberTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.099 sec <<< FAILURE! - in com.cucumber.stepdefs.RunCucumberTest
-initializationError(com.cucumber.stepdefs.RunCucumberTest)  Time elapsed: 0.002 sec  <<< ERROR!
-java.lang.IllegalArgumentException: path must exist: C:\HiberusUniversity\proyecto\inclass\RestAssuredProject\rest-assured-carlos\src\test\resources\hellocucumber
-
